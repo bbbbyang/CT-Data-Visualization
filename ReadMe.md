@@ -1,4 +1,4 @@
-#### Ray Tracing Rendering
+#### CT Data Visualization
 Author        : Bingyang Liu
 
 These are results for CT Data Visualization.
